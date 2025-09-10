@@ -1,3 +1,4 @@
 hello from vincent
 goodbye from vincent
 "new line for demo" 
+"line for screenshot demo" 
